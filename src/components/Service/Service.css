@@ -1,0 +1,17 @@
+.header-title{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    color: blue;
+    margin-bottom: 20px;
+}
+
+.card-service{
+    margin: 50px;
+}
+.g-4{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+}

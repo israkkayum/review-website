@@ -1,0 +1,18 @@
+.header{
+    background-color: blue;
+    color: white;
+    font-size: 24px;
+    font-weight: 700;
+    padding: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav {
+    margin-right: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    margin: 20px;
+}
